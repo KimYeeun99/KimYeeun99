@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KimYeeun99/KimYeeun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome!&reversal=false&fontSize=60&textBg=false&fontColor=FFFF&fontAlign=50&fontAlignY=45&descAlign=60&descAlignY=60&desc=Yeeun's%20Github

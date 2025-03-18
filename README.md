@@ -17,6 +17,7 @@
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+        <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
     </div>
 </div>
 <div style="text-align: left;">
@@ -31,8 +32,8 @@
     </div>
     <br>
     <div align= "center"> 
-        <a href="https://hits.seeyoufarm.com"> 
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg url=https%3A%2F%2Fgithub.com%2FKimYeeun99%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+        <a href="https://hits.seeyoufarm.com">
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=false"/>
         </a>
     </div> 
 </div>
